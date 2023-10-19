@@ -5,7 +5,7 @@ The Laravel Dynamic Migrate package allows you to dynamically create or update d
 ## Installation
 You can install the Laravel Dynamic Migrate package via Composer:
 
-```composer require feyyazcankose/laravel-dynamic-migrate```
+```composer require brodsolutions/laravel-dynamic-migrate```
 
 Once the package is installed, you can run the following command to generate the necessary migration files:
 
